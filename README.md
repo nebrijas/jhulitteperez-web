@@ -1,4 +1,4 @@
-# Actividad Dirigida 1 
+# Repositorio de trabajo del módulo de Periodismo de datos II
 
 Esta actividad consiste opinar sobre alguna nota de visualziación que le guste al estudiante y al mismo tiempo practicar con **Markdown** 
 
@@ -18,5 +18,6 @@ Esta actividad consiste opinar sobre alguna nota de visualziación que le guste 
 * La correlación entre los tipos de visualizaciones que se presentan, porque se comprende los diagramas de dispersión y los gráficos en forma de burbujas. 
 
  
- 
+- [Actividad dirigida 1](ad1.md)
+- [Actividad dirigida 2](ad2.md) 
  
