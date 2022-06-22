@@ -1,4 +1,4 @@
-# Repositorio de trabajo del módulo de Periodismo de datos II
+# Actividad 1
 
 Esta actividad consiste opinar sobre alguna nota de visualziación que le guste al estudiante y al mismo tiempo practicar con **Markdown** 
 
