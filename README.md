@@ -6,11 +6,7 @@
 - [Actividad dirigida 1](ad1.md)
 - [Actividad dirigida 2](ad2.md) 
 - [Actividad dirigida 3](ad3.md)
-<<<<<<< HEAD
 - [Actividad dirigida 4](ad4.md)
-=======
-- [Actividad dirigida 4]()
->>>>>>> aaf5a9539e1986172019ddce3bc8571ed39cb3f1
 
 
 ## Lo que hemos aprendido en Periodismo de datos ll
