@@ -45,7 +45,14 @@ un repositorio remoto.
 
 ## Actividad dirigida 3 
 Consiste en una técnica de código de Pythn para lograr scraping en una web,
-programación literaria, fue una de las actividades más complejas.
+programación literaria, fue una de las actividades más compleja
+porque consiste en el web scraping de un sitio web, en este caso
+del diario El País, para realizar esta tarea se debe ser muy organizado,
+porque debemos analizar bien el código fuente y evaluar los datos que
+se quieren obtener con presición, aunque el proceso es rápido y una
+gran ventaja para los periodistas de datos, se debe ser cuidadoso.
+Se usaron libreŕías de Python que son necesarias al momento de relizar
+la web scrapping..
 
 ## Actividad dirigida 4
 En este caso utilziamos Jupyter en un archivo de Python, también fue un
